@@ -319,7 +319,6 @@ Discarded input sections
  .group         0x0000000000000000        0xc CMakeFiles/L475PWM.dir/Core/Src/main.c.obj
  .group         0x0000000000000000        0xc CMakeFiles/L475PWM.dir/Core/Src/main.c.obj
  .group         0x0000000000000000        0xc CMakeFiles/L475PWM.dir/Core/Src/main.c.obj
- .group         0x0000000000000000        0xc CMakeFiles/L475PWM.dir/Core/Src/main.c.obj
  .text          0x0000000000000000        0x0 CMakeFiles/L475PWM.dir/Core/Src/main.c.obj
  .data          0x0000000000000000        0x0 CMakeFiles/L475PWM.dir/Core/Src/main.c.obj
  .bss           0x0000000000000000        0x0 CMakeFiles/L475PWM.dir/Core/Src/main.c.obj
@@ -379,7 +378,6 @@ Discarded input sections
  .debug_macro   0x0000000000000000       0x10 CMakeFiles/L475PWM.dir/Core/Src/main.c.obj
  .debug_macro   0x0000000000000000       0x58 CMakeFiles/L475PWM.dir/Core/Src/main.c.obj
  .debug_macro   0x0000000000000000      0x182 CMakeFiles/L475PWM.dir/Core/Src/main.c.obj
- .debug_macro   0x0000000000000000       0x4c CMakeFiles/L475PWM.dir/Core/Src/main.c.obj
  .group         0x0000000000000000        0xc CMakeFiles/L475PWM.dir/Core/Src/gpio.c.obj
  .group         0x0000000000000000        0xc CMakeFiles/L475PWM.dir/Core/Src/gpio.c.obj
  .group         0x0000000000000000        0xc CMakeFiles/L475PWM.dir/Core/Src/gpio.c.obj
@@ -6712,40 +6710,40 @@ LOAD /home/wanchuan/Downloads/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-
  .debug_frame   0x0000000000007fc4       0x2c /home/wanchuan/Downloads/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-readr.o)
  .debug_frame   0x0000000000007ff0       0x5c /home/wanchuan/Downloads/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-reent.o)
 
-.debug_info     0x0000000000000000    0x1efa7
- .debug_info    0x0000000000000000      0xffa CMakeFiles/L475PWM.dir/Core/Src/main.c.obj
- .debug_info    0x0000000000000ffa      0x6fc CMakeFiles/L475PWM.dir/Core/Src/gpio.c.obj
- .debug_info    0x00000000000016f6      0x97f CMakeFiles/L475PWM.dir/Core/Src/dfsdm.c.obj
- .debug_info    0x0000000000002075      0xc67 CMakeFiles/L475PWM.dir/Core/Src/i2c.c.obj
- .debug_info    0x0000000000002cdc      0x98d CMakeFiles/L475PWM.dir/Core/Src/quadspi.c.obj
- .debug_info    0x0000000000003669      0x9d2 CMakeFiles/L475PWM.dir/Core/Src/spi.c.obj
- .debug_info    0x000000000000403b      0xc96 CMakeFiles/L475PWM.dir/Core/Src/tim.c.obj
- .debug_info    0x0000000000004cd1      0xd5a CMakeFiles/L475PWM.dir/Core/Src/usart.c.obj
- .debug_info    0x0000000000005a2b      0xcb5 CMakeFiles/L475PWM.dir/Core/Src/usb_otg.c.obj
- .debug_info    0x00000000000066e0      0x155 CMakeFiles/L475PWM.dir/Core/Src/stm32l4xx_it.c.obj
- .debug_info    0x0000000000006835      0x308 CMakeFiles/L475PWM.dir/Core/Src/stm32l4xx_hal_msp.c.obj
- .debug_info    0x0000000000006b3d     0x1b6c CMakeFiles/L475PWM.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_dfsdm.c.obj
- .debug_info    0x00000000000086a9      0xadc CMakeFiles/L475PWM.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal.c.obj
- .debug_info    0x0000000000009185      0xc98 CMakeFiles/L475PWM.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_rcc.c.obj
- .debug_info    0x0000000000009e1d      0xe28 CMakeFiles/L475PWM.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_rcc_ex.c.obj
- .debug_info    0x000000000000ac45      0x821 CMakeFiles/L475PWM.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_gpio.c.obj
- .debug_info    0x000000000000b466     0x225c CMakeFiles/L475PWM.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_i2c.c.obj
- .debug_info    0x000000000000d6c2      0xa45 CMakeFiles/L475PWM.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_i2c_ex.c.obj
- .debug_info    0x000000000000e107      0x914 CMakeFiles/L475PWM.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_pwr.c.obj
- .debug_info    0x000000000000ea1b      0x9c1 CMakeFiles/L475PWM.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_pwr_ex.c.obj
- .debug_info    0x000000000000f3dc      0xe1b CMakeFiles/L475PWM.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_cortex.c.obj
- .debug_info    0x00000000000101f7     0x11ee CMakeFiles/L475PWM.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_qspi.c.obj
- .debug_info    0x00000000000113e5     0x1721 CMakeFiles/L475PWM.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_spi.c.obj
- .debug_info    0x0000000000012b06     0x2c8d CMakeFiles/L475PWM.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_tim.c.obj
- .debug_info    0x0000000000015793     0x16b7 CMakeFiles/L475PWM.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_tim_ex.c.obj
- .debug_info    0x0000000000016e4a     0x3cf4 CMakeFiles/L475PWM.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_uart.c.obj
- .debug_info    0x000000000001ab3e     0x128c CMakeFiles/L475PWM.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_pcd.c.obj
- .debug_info    0x000000000001bdca      0x8de CMakeFiles/L475PWM.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_pcd_ex.c.obj
- .debug_info    0x000000000001c6a8     0x1b06 CMakeFiles/L475PWM.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_ll_usb.c.obj
- .debug_info    0x000000000001e1ae      0x5c6 CMakeFiles/L475PWM.dir/Core/Src/system_stm32l4xx.c.obj
- .debug_info    0x000000000001e774      0x15f CMakeFiles/L475PWM.dir/Core/Src/sysmem.c.obj
- .debug_info    0x000000000001e8d3      0x6b2 CMakeFiles/L475PWM.dir/Core/Src/syscalls.c.obj
- .debug_info    0x000000000001ef85       0x22 CMakeFiles/L475PWM.dir/startup_stm32l475xx.s.obj
+.debug_info     0x0000000000000000    0x1ee92
+ .debug_info    0x0000000000000000      0xee5 CMakeFiles/L475PWM.dir/Core/Src/main.c.obj
+ .debug_info    0x0000000000000ee5      0x6fc CMakeFiles/L475PWM.dir/Core/Src/gpio.c.obj
+ .debug_info    0x00000000000015e1      0x97f CMakeFiles/L475PWM.dir/Core/Src/dfsdm.c.obj
+ .debug_info    0x0000000000001f60      0xc67 CMakeFiles/L475PWM.dir/Core/Src/i2c.c.obj
+ .debug_info    0x0000000000002bc7      0x98d CMakeFiles/L475PWM.dir/Core/Src/quadspi.c.obj
+ .debug_info    0x0000000000003554      0x9d2 CMakeFiles/L475PWM.dir/Core/Src/spi.c.obj
+ .debug_info    0x0000000000003f26      0xc96 CMakeFiles/L475PWM.dir/Core/Src/tim.c.obj
+ .debug_info    0x0000000000004bbc      0xd5a CMakeFiles/L475PWM.dir/Core/Src/usart.c.obj
+ .debug_info    0x0000000000005916      0xcb5 CMakeFiles/L475PWM.dir/Core/Src/usb_otg.c.obj
+ .debug_info    0x00000000000065cb      0x155 CMakeFiles/L475PWM.dir/Core/Src/stm32l4xx_it.c.obj
+ .debug_info    0x0000000000006720      0x308 CMakeFiles/L475PWM.dir/Core/Src/stm32l4xx_hal_msp.c.obj
+ .debug_info    0x0000000000006a28     0x1b6c CMakeFiles/L475PWM.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_dfsdm.c.obj
+ .debug_info    0x0000000000008594      0xadc CMakeFiles/L475PWM.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal.c.obj
+ .debug_info    0x0000000000009070      0xc98 CMakeFiles/L475PWM.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_rcc.c.obj
+ .debug_info    0x0000000000009d08      0xe28 CMakeFiles/L475PWM.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_rcc_ex.c.obj
+ .debug_info    0x000000000000ab30      0x821 CMakeFiles/L475PWM.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_gpio.c.obj
+ .debug_info    0x000000000000b351     0x225c CMakeFiles/L475PWM.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_i2c.c.obj
+ .debug_info    0x000000000000d5ad      0xa45 CMakeFiles/L475PWM.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_i2c_ex.c.obj
+ .debug_info    0x000000000000dff2      0x914 CMakeFiles/L475PWM.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_pwr.c.obj
+ .debug_info    0x000000000000e906      0x9c1 CMakeFiles/L475PWM.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_pwr_ex.c.obj
+ .debug_info    0x000000000000f2c7      0xe1b CMakeFiles/L475PWM.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_cortex.c.obj
+ .debug_info    0x00000000000100e2     0x11ee CMakeFiles/L475PWM.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_qspi.c.obj
+ .debug_info    0x00000000000112d0     0x1721 CMakeFiles/L475PWM.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_spi.c.obj
+ .debug_info    0x00000000000129f1     0x2c8d CMakeFiles/L475PWM.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_tim.c.obj
+ .debug_info    0x000000000001567e     0x16b7 CMakeFiles/L475PWM.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_tim_ex.c.obj
+ .debug_info    0x0000000000016d35     0x3cf4 CMakeFiles/L475PWM.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_uart.c.obj
+ .debug_info    0x000000000001aa29     0x128c CMakeFiles/L475PWM.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_pcd.c.obj
+ .debug_info    0x000000000001bcb5      0x8de CMakeFiles/L475PWM.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_pcd_ex.c.obj
+ .debug_info    0x000000000001c593     0x1b06 CMakeFiles/L475PWM.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_ll_usb.c.obj
+ .debug_info    0x000000000001e099      0x5c6 CMakeFiles/L475PWM.dir/Core/Src/system_stm32l4xx.c.obj
+ .debug_info    0x000000000001e65f      0x15f CMakeFiles/L475PWM.dir/Core/Src/sysmem.c.obj
+ .debug_info    0x000000000001e7be      0x6b2 CMakeFiles/L475PWM.dir/Core/Src/syscalls.c.obj
+ .debug_info    0x000000000001ee70       0x22 CMakeFiles/L475PWM.dir/startup_stm32l475xx.s.obj
 
 .debug_abbrev   0x0000000000000000     0x3a5c
  .debug_abbrev  0x0000000000000000      0x1eb CMakeFiles/L475PWM.dir/Core/Src/main.c.obj
@@ -6885,174 +6883,174 @@ LOAD /home/wanchuan/Downloads/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-
  .debug_ranges  0x00000000000019d0       0x98 CMakeFiles/L475PWM.dir/Core/Src/syscalls.c.obj
  .debug_ranges  0x0000000000001a68       0x20 CMakeFiles/L475PWM.dir/startup_stm32l475xx.s.obj
 
-.debug_macro    0x0000000000000000     0x571a
- .debug_macro   0x0000000000000000      0x3f2 CMakeFiles/L475PWM.dir/Core/Src/main.c.obj
- .debug_macro   0x00000000000003f2       0x16 CMakeFiles/L475PWM.dir/Core/Src/main.c.obj
- .debug_macro   0x0000000000000408       0x35 CMakeFiles/L475PWM.dir/Core/Src/main.c.obj
- .debug_macro   0x000000000000043d       0x10 CMakeFiles/L475PWM.dir/Core/Src/main.c.obj
- .debug_macro   0x000000000000044d       0x10 CMakeFiles/L475PWM.dir/Core/Src/main.c.obj
- .debug_macro   0x000000000000045d       0x1c CMakeFiles/L475PWM.dir/Core/Src/main.c.obj
- .debug_macro   0x0000000000000479       0x52 CMakeFiles/L475PWM.dir/Core/Src/main.c.obj
- .debug_macro   0x00000000000004cb       0x22 CMakeFiles/L475PWM.dir/Core/Src/main.c.obj
- .debug_macro   0x00000000000004ed       0x10 CMakeFiles/L475PWM.dir/Core/Src/main.c.obj
- .debug_macro   0x00000000000004fd       0x52 CMakeFiles/L475PWM.dir/Core/Src/main.c.obj
- .debug_macro   0x000000000000054f       0xd5 CMakeFiles/L475PWM.dir/Core/Src/main.c.obj
- .debug_macro   0x0000000000000624       0x1c CMakeFiles/L475PWM.dir/Core/Src/main.c.obj
- .debug_macro   0x0000000000000640       0x3d CMakeFiles/L475PWM.dir/Core/Src/main.c.obj
- .debug_macro   0x000000000000067d       0x16 CMakeFiles/L475PWM.dir/Core/Src/main.c.obj
- .debug_macro   0x0000000000000693      0x16f CMakeFiles/L475PWM.dir/Core/Src/main.c.obj
- .debug_macro   0x0000000000000802      0x23f CMakeFiles/L475PWM.dir/Core/Src/gpio.c.obj
- .debug_macro   0x0000000000000a41      0x23f CMakeFiles/L475PWM.dir/Core/Src/dfsdm.c.obj
- .debug_macro   0x0000000000000c80      0x23f CMakeFiles/L475PWM.dir/Core/Src/i2c.c.obj
- .debug_macro   0x0000000000000ebf      0x23f CMakeFiles/L475PWM.dir/Core/Src/quadspi.c.obj
- .debug_macro   0x00000000000010fe      0x23f CMakeFiles/L475PWM.dir/Core/Src/spi.c.obj
- .debug_macro   0x000000000000133d      0x23f CMakeFiles/L475PWM.dir/Core/Src/tim.c.obj
- .debug_macro   0x000000000000157c      0x23f CMakeFiles/L475PWM.dir/Core/Src/usart.c.obj
- .debug_macro   0x00000000000017bb      0x23f CMakeFiles/L475PWM.dir/Core/Src/usb_otg.c.obj
- .debug_macro   0x00000000000019fa      0x23f CMakeFiles/L475PWM.dir/Core/Src/stm32l4xx_it.c.obj
- .debug_macro   0x0000000000001c39      0x235 CMakeFiles/L475PWM.dir/Core/Src/stm32l4xx_hal_msp.c.obj
- .debug_macro   0x0000000000001e6e      0x24a CMakeFiles/L475PWM.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_dfsdm.c.obj
- .debug_macro   0x00000000000020b8      0x274 CMakeFiles/L475PWM.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal.c.obj
- .debug_macro   0x000000000000232c      0x268 CMakeFiles/L475PWM.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_rcc.c.obj
- .debug_macro   0x0000000000002594      0x25c CMakeFiles/L475PWM.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_rcc_ex.c.obj
- .debug_macro   0x00000000000027f0      0x22d CMakeFiles/L475PWM.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_gpio.c.obj
- .debug_macro   0x0000000000002a1d      0x2f2 CMakeFiles/L475PWM.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_i2c.c.obj
- .debug_macro   0x0000000000002d0f      0x226 CMakeFiles/L475PWM.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_i2c_ex.c.obj
- .debug_macro   0x0000000000002f35      0x23e CMakeFiles/L475PWM.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_pwr.c.obj
- .debug_macro   0x0000000000003173      0x24a CMakeFiles/L475PWM.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_pwr_ex.c.obj
- .debug_macro   0x00000000000033bd      0x226 CMakeFiles/L475PWM.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_cortex.c.obj
- .debug_macro   0x00000000000035e3      0x24a CMakeFiles/L475PWM.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_qspi.c.obj
- .debug_macro   0x000000000000382d      0x22e CMakeFiles/L475PWM.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_spi.c.obj
- .debug_macro   0x0000000000003a5b      0x227 CMakeFiles/L475PWM.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_tim.c.obj
- .debug_macro   0x0000000000003c82      0x226 CMakeFiles/L475PWM.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_tim_ex.c.obj
- .debug_macro   0x0000000000003ea8      0x251 CMakeFiles/L475PWM.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_uart.c.obj
- .debug_macro   0x00000000000040f9      0x232 CMakeFiles/L475PWM.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_pcd.c.obj
- .debug_macro   0x000000000000432b      0x226 CMakeFiles/L475PWM.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_pcd_ex.c.obj
- .debug_macro   0x0000000000004551      0x226 CMakeFiles/L475PWM.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_ll_usb.c.obj
- .debug_macro   0x0000000000004777      0x226 CMakeFiles/L475PWM.dir/Core/Src/system_stm32l4xx.c.obj
- .debug_macro   0x000000000000499d       0xec CMakeFiles/L475PWM.dir/Core/Src/sysmem.c.obj
- .debug_macro   0x0000000000004a89       0x10 CMakeFiles/L475PWM.dir/Core/Src/sysmem.c.obj
- .debug_macro   0x0000000000004a99       0x5e CMakeFiles/L475PWM.dir/Core/Src/sysmem.c.obj
- .debug_macro   0x0000000000004af7       0x94 CMakeFiles/L475PWM.dir/Core/Src/sysmem.c.obj
- .debug_macro   0x0000000000004b8b       0x57 CMakeFiles/L475PWM.dir/Core/Src/sysmem.c.obj
- .debug_macro   0x0000000000004be2      0x23b CMakeFiles/L475PWM.dir/Core/Src/sysmem.c.obj
- .debug_macro   0x0000000000004e1d      0x23d CMakeFiles/L475PWM.dir/Core/Src/syscalls.c.obj
- .debug_macro   0x000000000000505a       0x10 CMakeFiles/L475PWM.dir/Core/Src/syscalls.c.obj
- .debug_macro   0x000000000000506a       0x10 CMakeFiles/L475PWM.dir/Core/Src/syscalls.c.obj
- .debug_macro   0x000000000000507a       0x10 CMakeFiles/L475PWM.dir/Core/Src/syscalls.c.obj
- .debug_macro   0x000000000000508a       0x35 CMakeFiles/L475PWM.dir/Core/Src/syscalls.c.obj
- .debug_macro   0x00000000000050bf      0x12c CMakeFiles/L475PWM.dir/Core/Src/syscalls.c.obj
- .debug_macro   0x00000000000051eb       0x16 CMakeFiles/L475PWM.dir/Core/Src/syscalls.c.obj
- .debug_macro   0x0000000000005201       0x16 CMakeFiles/L475PWM.dir/Core/Src/syscalls.c.obj
- .debug_macro   0x0000000000005217       0x29 CMakeFiles/L475PWM.dir/Core/Src/syscalls.c.obj
- .debug_macro   0x0000000000005240      0x241 CMakeFiles/L475PWM.dir/Core/Src/syscalls.c.obj
- .debug_macro   0x0000000000005481       0x1c CMakeFiles/L475PWM.dir/Core/Src/syscalls.c.obj
- .debug_macro   0x000000000000549d       0x10 CMakeFiles/L475PWM.dir/Core/Src/syscalls.c.obj
- .debug_macro   0x00000000000054ad      0x189 CMakeFiles/L475PWM.dir/Core/Src/syscalls.c.obj
- .debug_macro   0x0000000000005636       0x16 CMakeFiles/L475PWM.dir/Core/Src/syscalls.c.obj
- .debug_macro   0x000000000000564c       0xce CMakeFiles/L475PWM.dir/Core/Src/syscalls.c.obj
+.debug_macro    0x0000000000000000     0x5707
+ .debug_macro   0x0000000000000000      0x3df CMakeFiles/L475PWM.dir/Core/Src/main.c.obj
+ .debug_macro   0x00000000000003df       0x16 CMakeFiles/L475PWM.dir/Core/Src/main.c.obj
+ .debug_macro   0x00000000000003f5       0x35 CMakeFiles/L475PWM.dir/Core/Src/main.c.obj
+ .debug_macro   0x000000000000042a       0x10 CMakeFiles/L475PWM.dir/Core/Src/main.c.obj
+ .debug_macro   0x000000000000043a       0x10 CMakeFiles/L475PWM.dir/Core/Src/main.c.obj
+ .debug_macro   0x000000000000044a       0x1c CMakeFiles/L475PWM.dir/Core/Src/main.c.obj
+ .debug_macro   0x0000000000000466       0x52 CMakeFiles/L475PWM.dir/Core/Src/main.c.obj
+ .debug_macro   0x00000000000004b8       0x22 CMakeFiles/L475PWM.dir/Core/Src/main.c.obj
+ .debug_macro   0x00000000000004da       0x10 CMakeFiles/L475PWM.dir/Core/Src/main.c.obj
+ .debug_macro   0x00000000000004ea       0x52 CMakeFiles/L475PWM.dir/Core/Src/main.c.obj
+ .debug_macro   0x000000000000053c       0xd5 CMakeFiles/L475PWM.dir/Core/Src/main.c.obj
+ .debug_macro   0x0000000000000611       0x1c CMakeFiles/L475PWM.dir/Core/Src/main.c.obj
+ .debug_macro   0x000000000000062d       0x3d CMakeFiles/L475PWM.dir/Core/Src/main.c.obj
+ .debug_macro   0x000000000000066a       0x16 CMakeFiles/L475PWM.dir/Core/Src/main.c.obj
+ .debug_macro   0x0000000000000680      0x16f CMakeFiles/L475PWM.dir/Core/Src/main.c.obj
+ .debug_macro   0x00000000000007ef      0x23f CMakeFiles/L475PWM.dir/Core/Src/gpio.c.obj
+ .debug_macro   0x0000000000000a2e      0x23f CMakeFiles/L475PWM.dir/Core/Src/dfsdm.c.obj
+ .debug_macro   0x0000000000000c6d      0x23f CMakeFiles/L475PWM.dir/Core/Src/i2c.c.obj
+ .debug_macro   0x0000000000000eac      0x23f CMakeFiles/L475PWM.dir/Core/Src/quadspi.c.obj
+ .debug_macro   0x00000000000010eb      0x23f CMakeFiles/L475PWM.dir/Core/Src/spi.c.obj
+ .debug_macro   0x000000000000132a      0x23f CMakeFiles/L475PWM.dir/Core/Src/tim.c.obj
+ .debug_macro   0x0000000000001569      0x23f CMakeFiles/L475PWM.dir/Core/Src/usart.c.obj
+ .debug_macro   0x00000000000017a8      0x23f CMakeFiles/L475PWM.dir/Core/Src/usb_otg.c.obj
+ .debug_macro   0x00000000000019e7      0x23f CMakeFiles/L475PWM.dir/Core/Src/stm32l4xx_it.c.obj
+ .debug_macro   0x0000000000001c26      0x235 CMakeFiles/L475PWM.dir/Core/Src/stm32l4xx_hal_msp.c.obj
+ .debug_macro   0x0000000000001e5b      0x24a CMakeFiles/L475PWM.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_dfsdm.c.obj
+ .debug_macro   0x00000000000020a5      0x274 CMakeFiles/L475PWM.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal.c.obj
+ .debug_macro   0x0000000000002319      0x268 CMakeFiles/L475PWM.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_rcc.c.obj
+ .debug_macro   0x0000000000002581      0x25c CMakeFiles/L475PWM.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_rcc_ex.c.obj
+ .debug_macro   0x00000000000027dd      0x22d CMakeFiles/L475PWM.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_gpio.c.obj
+ .debug_macro   0x0000000000002a0a      0x2f2 CMakeFiles/L475PWM.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_i2c.c.obj
+ .debug_macro   0x0000000000002cfc      0x226 CMakeFiles/L475PWM.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_i2c_ex.c.obj
+ .debug_macro   0x0000000000002f22      0x23e CMakeFiles/L475PWM.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_pwr.c.obj
+ .debug_macro   0x0000000000003160      0x24a CMakeFiles/L475PWM.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_pwr_ex.c.obj
+ .debug_macro   0x00000000000033aa      0x226 CMakeFiles/L475PWM.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_cortex.c.obj
+ .debug_macro   0x00000000000035d0      0x24a CMakeFiles/L475PWM.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_qspi.c.obj
+ .debug_macro   0x000000000000381a      0x22e CMakeFiles/L475PWM.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_spi.c.obj
+ .debug_macro   0x0000000000003a48      0x227 CMakeFiles/L475PWM.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_tim.c.obj
+ .debug_macro   0x0000000000003c6f      0x226 CMakeFiles/L475PWM.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_tim_ex.c.obj
+ .debug_macro   0x0000000000003e95      0x251 CMakeFiles/L475PWM.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_uart.c.obj
+ .debug_macro   0x00000000000040e6      0x232 CMakeFiles/L475PWM.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_pcd.c.obj
+ .debug_macro   0x0000000000004318      0x226 CMakeFiles/L475PWM.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_pcd_ex.c.obj
+ .debug_macro   0x000000000000453e      0x226 CMakeFiles/L475PWM.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_ll_usb.c.obj
+ .debug_macro   0x0000000000004764      0x226 CMakeFiles/L475PWM.dir/Core/Src/system_stm32l4xx.c.obj
+ .debug_macro   0x000000000000498a       0xec CMakeFiles/L475PWM.dir/Core/Src/sysmem.c.obj
+ .debug_macro   0x0000000000004a76       0x10 CMakeFiles/L475PWM.dir/Core/Src/sysmem.c.obj
+ .debug_macro   0x0000000000004a86       0x5e CMakeFiles/L475PWM.dir/Core/Src/sysmem.c.obj
+ .debug_macro   0x0000000000004ae4       0x94 CMakeFiles/L475PWM.dir/Core/Src/sysmem.c.obj
+ .debug_macro   0x0000000000004b78       0x57 CMakeFiles/L475PWM.dir/Core/Src/sysmem.c.obj
+ .debug_macro   0x0000000000004bcf      0x23b CMakeFiles/L475PWM.dir/Core/Src/sysmem.c.obj
+ .debug_macro   0x0000000000004e0a      0x23d CMakeFiles/L475PWM.dir/Core/Src/syscalls.c.obj
+ .debug_macro   0x0000000000005047       0x10 CMakeFiles/L475PWM.dir/Core/Src/syscalls.c.obj
+ .debug_macro   0x0000000000005057       0x10 CMakeFiles/L475PWM.dir/Core/Src/syscalls.c.obj
+ .debug_macro   0x0000000000005067       0x10 CMakeFiles/L475PWM.dir/Core/Src/syscalls.c.obj
+ .debug_macro   0x0000000000005077       0x35 CMakeFiles/L475PWM.dir/Core/Src/syscalls.c.obj
+ .debug_macro   0x00000000000050ac      0x12c CMakeFiles/L475PWM.dir/Core/Src/syscalls.c.obj
+ .debug_macro   0x00000000000051d8       0x16 CMakeFiles/L475PWM.dir/Core/Src/syscalls.c.obj
+ .debug_macro   0x00000000000051ee       0x16 CMakeFiles/L475PWM.dir/Core/Src/syscalls.c.obj
+ .debug_macro   0x0000000000005204       0x29 CMakeFiles/L475PWM.dir/Core/Src/syscalls.c.obj
+ .debug_macro   0x000000000000522d      0x241 CMakeFiles/L475PWM.dir/Core/Src/syscalls.c.obj
+ .debug_macro   0x000000000000546e       0x1c CMakeFiles/L475PWM.dir/Core/Src/syscalls.c.obj
+ .debug_macro   0x000000000000548a       0x10 CMakeFiles/L475PWM.dir/Core/Src/syscalls.c.obj
+ .debug_macro   0x000000000000549a      0x189 CMakeFiles/L475PWM.dir/Core/Src/syscalls.c.obj
+ .debug_macro   0x0000000000005623       0x16 CMakeFiles/L475PWM.dir/Core/Src/syscalls.c.obj
+ .debug_macro   0x0000000000005639       0xce CMakeFiles/L475PWM.dir/Core/Src/syscalls.c.obj
 
-.debug_line     0x0000000000000000    0x2233e
- .debug_line    0x0000000000000000      0x9a4 CMakeFiles/L475PWM.dir/Core/Src/main.c.obj
- .debug_line    0x00000000000009a4      0x868 CMakeFiles/L475PWM.dir/Core/Src/gpio.c.obj
- .debug_line    0x000000000000120c      0x7f8 CMakeFiles/L475PWM.dir/Core/Src/dfsdm.c.obj
- .debug_line    0x0000000000001a04      0x7f9 CMakeFiles/L475PWM.dir/Core/Src/i2c.c.obj
- .debug_line    0x00000000000021fd      0x7d7 CMakeFiles/L475PWM.dir/Core/Src/quadspi.c.obj
- .debug_line    0x00000000000029d4      0x7e1 CMakeFiles/L475PWM.dir/Core/Src/spi.c.obj
- .debug_line    0x00000000000031b5      0x839 CMakeFiles/L475PWM.dir/Core/Src/tim.c.obj
- .debug_line    0x00000000000039ee      0x867 CMakeFiles/L475PWM.dir/Core/Src/usart.c.obj
- .debug_line    0x0000000000004255      0x82b CMakeFiles/L475PWM.dir/Core/Src/usb_otg.c.obj
- .debug_line    0x0000000000004a80      0x862 CMakeFiles/L475PWM.dir/Core/Src/stm32l4xx_it.c.obj
- .debug_line    0x00000000000052e2      0x768 CMakeFiles/L475PWM.dir/Core/Src/stm32l4xx_hal_msp.c.obj
- .debug_line    0x0000000000005a4a     0x1ed0 CMakeFiles/L475PWM.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_dfsdm.c.obj
- .debug_line    0x000000000000791a      0xb58 CMakeFiles/L475PWM.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal.c.obj
- .debug_line    0x0000000000008472      0xfd2 CMakeFiles/L475PWM.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_rcc.c.obj
- .debug_line    0x0000000000009444     0x1511 CMakeFiles/L475PWM.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_rcc_ex.c.obj
- .debug_line    0x000000000000a955      0xbcc CMakeFiles/L475PWM.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_gpio.c.obj
- .debug_line    0x000000000000b521     0x392d CMakeFiles/L475PWM.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_i2c.c.obj
- .debug_line    0x000000000000ee4e      0x986 CMakeFiles/L475PWM.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_i2c_ex.c.obj
- .debug_line    0x000000000000f7d4      0x935 CMakeFiles/L475PWM.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_pwr.c.obj
- .debug_line    0x0000000000010109      0xd20 CMakeFiles/L475PWM.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_pwr_ex.c.obj
- .debug_line    0x0000000000010e29      0xcff CMakeFiles/L475PWM.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_cortex.c.obj
- .debug_line    0x0000000000011b28     0x145b CMakeFiles/L475PWM.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_qspi.c.obj
- .debug_line    0x0000000000012f83     0x1fcd CMakeFiles/L475PWM.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_spi.c.obj
- .debug_line    0x0000000000014f50     0x3dd1 CMakeFiles/L475PWM.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_tim.c.obj
- .debug_line    0x0000000000018d21     0x1c5e CMakeFiles/L475PWM.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_tim_ex.c.obj
- .debug_line    0x000000000001a97f     0x323b CMakeFiles/L475PWM.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_uart.c.obj
- .debug_line    0x000000000001dbba     0x1362 CMakeFiles/L475PWM.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_pcd.c.obj
- .debug_line    0x000000000001ef1c      0x938 CMakeFiles/L475PWM.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_pcd_ex.c.obj
- .debug_line    0x000000000001f854     0x19a2 CMakeFiles/L475PWM.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_ll_usb.c.obj
- .debug_line    0x00000000000211f6      0x800 CMakeFiles/L475PWM.dir/Core/Src/system_stm32l4xx.c.obj
- .debug_line    0x00000000000219f6      0x2d1 CMakeFiles/L475PWM.dir/Core/Src/sysmem.c.obj
- .debug_line    0x0000000000021cc7      0x5db CMakeFiles/L475PWM.dir/Core/Src/syscalls.c.obj
- .debug_line    0x00000000000222a2       0x9c CMakeFiles/L475PWM.dir/startup_stm32l475xx.s.obj
+.debug_line     0x0000000000000000    0x22331
+ .debug_line    0x0000000000000000      0x997 CMakeFiles/L475PWM.dir/Core/Src/main.c.obj
+ .debug_line    0x0000000000000997      0x868 CMakeFiles/L475PWM.dir/Core/Src/gpio.c.obj
+ .debug_line    0x00000000000011ff      0x7f8 CMakeFiles/L475PWM.dir/Core/Src/dfsdm.c.obj
+ .debug_line    0x00000000000019f7      0x7f9 CMakeFiles/L475PWM.dir/Core/Src/i2c.c.obj
+ .debug_line    0x00000000000021f0      0x7d7 CMakeFiles/L475PWM.dir/Core/Src/quadspi.c.obj
+ .debug_line    0x00000000000029c7      0x7e1 CMakeFiles/L475PWM.dir/Core/Src/spi.c.obj
+ .debug_line    0x00000000000031a8      0x839 CMakeFiles/L475PWM.dir/Core/Src/tim.c.obj
+ .debug_line    0x00000000000039e1      0x867 CMakeFiles/L475PWM.dir/Core/Src/usart.c.obj
+ .debug_line    0x0000000000004248      0x82b CMakeFiles/L475PWM.dir/Core/Src/usb_otg.c.obj
+ .debug_line    0x0000000000004a73      0x862 CMakeFiles/L475PWM.dir/Core/Src/stm32l4xx_it.c.obj
+ .debug_line    0x00000000000052d5      0x768 CMakeFiles/L475PWM.dir/Core/Src/stm32l4xx_hal_msp.c.obj
+ .debug_line    0x0000000000005a3d     0x1ed0 CMakeFiles/L475PWM.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_dfsdm.c.obj
+ .debug_line    0x000000000000790d      0xb58 CMakeFiles/L475PWM.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal.c.obj
+ .debug_line    0x0000000000008465      0xfd2 CMakeFiles/L475PWM.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_rcc.c.obj
+ .debug_line    0x0000000000009437     0x1511 CMakeFiles/L475PWM.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_rcc_ex.c.obj
+ .debug_line    0x000000000000a948      0xbcc CMakeFiles/L475PWM.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_gpio.c.obj
+ .debug_line    0x000000000000b514     0x392d CMakeFiles/L475PWM.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_i2c.c.obj
+ .debug_line    0x000000000000ee41      0x986 CMakeFiles/L475PWM.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_i2c_ex.c.obj
+ .debug_line    0x000000000000f7c7      0x935 CMakeFiles/L475PWM.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_pwr.c.obj
+ .debug_line    0x00000000000100fc      0xd20 CMakeFiles/L475PWM.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_pwr_ex.c.obj
+ .debug_line    0x0000000000010e1c      0xcff CMakeFiles/L475PWM.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_cortex.c.obj
+ .debug_line    0x0000000000011b1b     0x145b CMakeFiles/L475PWM.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_qspi.c.obj
+ .debug_line    0x0000000000012f76     0x1fcd CMakeFiles/L475PWM.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_spi.c.obj
+ .debug_line    0x0000000000014f43     0x3dd1 CMakeFiles/L475PWM.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_tim.c.obj
+ .debug_line    0x0000000000018d14     0x1c5e CMakeFiles/L475PWM.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_tim_ex.c.obj
+ .debug_line    0x000000000001a972     0x323b CMakeFiles/L475PWM.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_uart.c.obj
+ .debug_line    0x000000000001dbad     0x1362 CMakeFiles/L475PWM.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_pcd.c.obj
+ .debug_line    0x000000000001ef0f      0x938 CMakeFiles/L475PWM.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_pcd_ex.c.obj
+ .debug_line    0x000000000001f847     0x19a2 CMakeFiles/L475PWM.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_ll_usb.c.obj
+ .debug_line    0x00000000000211e9      0x800 CMakeFiles/L475PWM.dir/Core/Src/system_stm32l4xx.c.obj
+ .debug_line    0x00000000000219e9      0x2d1 CMakeFiles/L475PWM.dir/Core/Src/sysmem.c.obj
+ .debug_line    0x0000000000021cba      0x5db CMakeFiles/L475PWM.dir/Core/Src/syscalls.c.obj
+ .debug_line    0x0000000000022295       0x9c CMakeFiles/L475PWM.dir/startup_stm32l475xx.s.obj
 
-.debug_str      0x0000000000000000    0xffd5e
- .debug_str     0x0000000000000000    0xf5f2f CMakeFiles/L475PWM.dir/Core/Src/main.c.obj
-                                      0xf6301 (size before relaxing)
- .debug_str     0x00000000000f5f2f      0x4e7 CMakeFiles/L475PWM.dir/Core/Src/gpio.c.obj
+.debug_str      0x0000000000000000    0xffa3b
+ .debug_str     0x0000000000000000    0xf5c0c CMakeFiles/L475PWM.dir/Core/Src/main.c.obj
+                                      0xf5fd8 (size before relaxing)
+ .debug_str     0x00000000000f5c0c      0x4e7 CMakeFiles/L475PWM.dir/Core/Src/gpio.c.obj
                                       0xf23b4 (size before relaxing)
- .debug_str     0x00000000000f6416      0x4d9 CMakeFiles/L475PWM.dir/Core/Src/dfsdm.c.obj
+ .debug_str     0x00000000000f60f3      0x4d9 CMakeFiles/L475PWM.dir/Core/Src/dfsdm.c.obj
                                       0xf242a (size before relaxing)
- .debug_str     0x00000000000f68ef      0x2c7 CMakeFiles/L475PWM.dir/Core/Src/i2c.c.obj
+ .debug_str     0x00000000000f65cc      0x2c7 CMakeFiles/L475PWM.dir/Core/Src/i2c.c.obj
                                       0xf2647 (size before relaxing)
- .debug_str     0x00000000000f6bb6      0x206 CMakeFiles/L475PWM.dir/Core/Src/quadspi.c.obj
+ .debug_str     0x00000000000f6893      0x206 CMakeFiles/L475PWM.dir/Core/Src/quadspi.c.obj
                                       0xf22e5 (size before relaxing)
- .debug_str     0x00000000000f6dbc      0x1c7 CMakeFiles/L475PWM.dir/Core/Src/spi.c.obj
+ .debug_str     0x00000000000f6a99      0x1c7 CMakeFiles/L475PWM.dir/Core/Src/spi.c.obj
                                       0xf22d9 (size before relaxing)
- .debug_str     0x00000000000f6f83      0x219 CMakeFiles/L475PWM.dir/Core/Src/tim.c.obj
+ .debug_str     0x00000000000f6c60      0x219 CMakeFiles/L475PWM.dir/Core/Src/tim.c.obj
                                       0xf25c4 (size before relaxing)
- .debug_str     0x00000000000f719c       0x95 CMakeFiles/L475PWM.dir/Core/Src/usart.c.obj
+ .debug_str     0x00000000000f6e79       0x95 CMakeFiles/L475PWM.dir/Core/Src/usart.c.obj
                                       0xf25d7 (size before relaxing)
- .debug_str     0x00000000000f7231      0x43f CMakeFiles/L475PWM.dir/Core/Src/usb_otg.c.obj
+ .debug_str     0x00000000000f6f0e      0x43f CMakeFiles/L475PWM.dir/Core/Src/usb_otg.c.obj
                                       0xf25e4 (size before relaxing)
- .debug_str     0x00000000000f7670      0x108 CMakeFiles/L475PWM.dir/Core/Src/stm32l4xx_it.c.obj
+ .debug_str     0x00000000000f734d      0x108 CMakeFiles/L475PWM.dir/Core/Src/stm32l4xx_it.c.obj
                                       0xf1d91 (size before relaxing)
- .debug_str     0x00000000000f7778       0x4f CMakeFiles/L475PWM.dir/Core/Src/stm32l4xx_hal_msp.c.obj
+ .debug_str     0x00000000000f7455       0x4f CMakeFiles/L475PWM.dir/Core/Src/stm32l4xx_hal_msp.c.obj
                                       0xf1e28 (size before relaxing)
- .debug_str     0x00000000000f77c7      0xc51 CMakeFiles/L475PWM.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_dfsdm.c.obj
+ .debug_str     0x00000000000f74a4      0xc51 CMakeFiles/L475PWM.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_dfsdm.c.obj
                                       0xf1a7c (size before relaxing)
- .debug_str     0x00000000000f8418      0x647 CMakeFiles/L475PWM.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal.c.obj
+ .debug_str     0x00000000000f80f5      0x647 CMakeFiles/L475PWM.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal.c.obj
                                       0xf16d6 (size before relaxing)
- .debug_str     0x00000000000f8a5f      0x4af CMakeFiles/L475PWM.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_rcc.c.obj
+ .debug_str     0x00000000000f873c      0x4af CMakeFiles/L475PWM.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_rcc.c.obj
                                       0xf11a0 (size before relaxing)
- .debug_str     0x00000000000f8f0e      0x410 CMakeFiles/L475PWM.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_rcc_ex.c.obj
+ .debug_str     0x00000000000f8beb      0x410 CMakeFiles/L475PWM.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_rcc_ex.c.obj
                                       0xf12cb (size before relaxing)
- .debug_str     0x00000000000f931e      0x13d CMakeFiles/L475PWM.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_gpio.c.obj
+ .debug_str     0x00000000000f8ffb      0x13d CMakeFiles/L475PWM.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_gpio.c.obj
                                       0xf0d14 (size before relaxing)
- .debug_str     0x00000000000f945b      0xdd0 CMakeFiles/L475PWM.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_i2c.c.obj
+ .debug_str     0x00000000000f9138      0xdd0 CMakeFiles/L475PWM.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_i2c.c.obj
                                       0xf1d6b (size before relaxing)
- .debug_str     0x00000000000fa22b       0xdb CMakeFiles/L475PWM.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_i2c_ex.c.obj
+ .debug_str     0x00000000000f9f08       0xdb CMakeFiles/L475PWM.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_i2c_ex.c.obj
                                       0xf10d2 (size before relaxing)
- .debug_str     0x00000000000fa306      0x2fc CMakeFiles/L475PWM.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_pwr.c.obj
+ .debug_str     0x00000000000f9fe3      0x2fc CMakeFiles/L475PWM.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_pwr.c.obj
                                       0xf0e93 (size before relaxing)
- .debug_str     0x00000000000fa602      0x461 CMakeFiles/L475PWM.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_pwr_ex.c.obj
+ .debug_str     0x00000000000fa2df      0x461 CMakeFiles/L475PWM.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_pwr_ex.c.obj
                                       0xf10a7 (size before relaxing)
- .debug_str     0x00000000000faa63      0x3ac CMakeFiles/L475PWM.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_cortex.c.obj
+ .debug_str     0x00000000000fa740      0x3ac CMakeFiles/L475PWM.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_cortex.c.obj
                                       0xf13d9 (size before relaxing)
- .debug_str     0x00000000000fae0f      0x6d6 CMakeFiles/L475PWM.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_qspi.c.obj
+ .debug_str     0x00000000000faaec      0x6d6 CMakeFiles/L475PWM.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_qspi.c.obj
                                       0xf149a (size before relaxing)
- .debug_str     0x00000000000fb4e5      0x567 CMakeFiles/L475PWM.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_spi.c.obj
+ .debug_str     0x00000000000fb1c2      0x567 CMakeFiles/L475PWM.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_spi.c.obj
                                       0xf1380 (size before relaxing)
- .debug_str     0x00000000000fba4c      0xe1d CMakeFiles/L475PWM.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_tim.c.obj
+ .debug_str     0x00000000000fb729      0xe1d CMakeFiles/L475PWM.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_tim.c.obj
                                       0xf1e39 (size before relaxing)
- .debug_str     0x00000000000fc869      0x55a CMakeFiles/L475PWM.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_tim_ex.c.obj
+ .debug_str     0x00000000000fc546      0x55a CMakeFiles/L475PWM.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_tim_ex.c.obj
                                       0xf16fb (size before relaxing)
- .debug_str     0x00000000000fcdc3      0x8c6 CMakeFiles/L475PWM.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_uart.c.obj
+ .debug_str     0x00000000000fcaa0      0x8c6 CMakeFiles/L475PWM.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_uart.c.obj
                                       0xf184a (size before relaxing)
- .debug_str     0x00000000000fd689      0x571 CMakeFiles/L475PWM.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_pcd.c.obj
+ .debug_str     0x00000000000fd366      0x571 CMakeFiles/L475PWM.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_pcd.c.obj
                                       0xf136f (size before relaxing)
- .debug_str     0x00000000000fdbfa      0x1d7 CMakeFiles/L475PWM.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_pcd_ex.c.obj
+ .debug_str     0x00000000000fd8d7      0x1d7 CMakeFiles/L475PWM.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_pcd_ex.c.obj
                                       0xf0fd4 (size before relaxing)
- .debug_str     0x00000000000fddd1      0x6f4 CMakeFiles/L475PWM.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_ll_usb.c.obj
+ .debug_str     0x00000000000fdaae      0x6f4 CMakeFiles/L475PWM.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_ll_usb.c.obj
                                       0xf14ea (size before relaxing)
- .debug_str     0x00000000000fe4c5       0x63 CMakeFiles/L475PWM.dir/Core/Src/system_stm32l4xx.c.obj
+ .debug_str     0x00000000000fe1a2       0x63 CMakeFiles/L475PWM.dir/Core/Src/system_stm32l4xx.c.obj
                                       0xf0b9b (size before relaxing)
- .debug_str     0x00000000000fe528      0x4f5 CMakeFiles/L475PWM.dir/Core/Src/sysmem.c.obj
+ .debug_str     0x00000000000fe205      0x4f5 CMakeFiles/L475PWM.dir/Core/Src/sysmem.c.obj
                                        0x5812 (size before relaxing)
- .debug_str     0x00000000000fea1d     0x12f7 CMakeFiles/L475PWM.dir/Core/Src/syscalls.c.obj
+ .debug_str     0x00000000000fe6fa     0x12f7 CMakeFiles/L475PWM.dir/Core/Src/syscalls.c.obj
                                        0x8561 (size before relaxing)
- .debug_str     0x00000000000ffd14       0x4a CMakeFiles/L475PWM.dir/startup_stm32l475xx.s.obj
+ .debug_str     0x00000000000ff9f1       0x4a CMakeFiles/L475PWM.dir/startup_stm32l475xx.s.obj
                                          0x7c (size before relaxing)
 
 .comment        0x0000000000000000       0x49
